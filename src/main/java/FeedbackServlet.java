@@ -49,7 +49,7 @@ public class FeedbackServlet extends HttpServlet {
 				+ "<br>Feedback: " + feedback + "</h3>");
 
 		pw.println("<div style='text-align:center;'>"
-				+ "<a href='index .jsp' style='font-size: 16px; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; display: inline-block; cursor: pointer;'>"
+				+ "<a href='index.jsp' style='font-size: 16px; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; display: inline-block; cursor: pointer;'>"
 				+ "Go Back" + "</a>" + "</div>");
 	}
 
